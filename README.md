@@ -33,9 +33,17 @@ MODEL GRAPH:
 
 TABULATION:
 
+![WhatsApp Image 2025-11-16 at 18 49 22_fa28c223](https://github.com/user-attachments/assets/dca8e9d9-a125-4c8e-b854-08139472cfc3)
+
+CALCULATION:
+
+![WhatsApp Image 2025-11-16 at 18 49 27_df958ab8](https://github.com/user-attachments/assets/56f8a491-ba19-487c-b2f2-24d97ff5a590)
+
 
 GRAPH: 
 
+![WhatsApp Image 2025-11-16 at 18 49 26_8b889a32](https://github.com/user-attachments/assets/dca90864-bf6b-40dc-930b-3e1d1b52cca0)
 
 RESULT:
 
+Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
